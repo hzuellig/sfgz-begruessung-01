@@ -12,6 +12,10 @@ footer{
     justify-content: center;
 }
 
+body {
+    padding: 3rem;
+    font-size: 3rem;
+}
 /* ===== 2 · Liste: .liste ===== */
 
 /* ===== 3 · Eintrag: .gruss, .wort, .info, .notiz, .von ===== */
